@@ -35,14 +35,14 @@
 ,
 {
          "name": "VIP-TH-TRUE+DTAC",
-         "url": "https://raw.githubusercontent.com/NONVPN/jai-non/main/TRUE%2BDATC.ovpn"
+         "url": "https://raw.githubusercontent.com/NONVPN/jai-non/main/TEUE%2BDTAC.ovpn"
       }
 
 
    ],
 "message":"
 🌎- ระบบอัพเดทอัตโนมัติ -🌎
- 🆙 อัพเดท วันที่ 14-04-2023
+ 🆙 อัพเดท วันที่ 15-04-2023
 
 
 vip วันละ 1.55
@@ -56,5 +56,5 @@ vip วันละ 1.55
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":9
+   "version":10
 }
